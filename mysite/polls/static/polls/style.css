@@ -1,0 +1,28 @@
+h1{
+    color : black;
+}
+h2{
+    color : #FF4136;
+}
+a:link {
+    color : #001f3f;
+}
+
+/* visited link */
+a:visited {
+    color : #85144b;
+}
+
+/* mouse over link */
+a:hover {
+    color : #001f3f;
+}
+
+/* selected link */
+a:active {
+    color : red;
+}
+body {
+
+    background : lightblue url("images/background.jpg") no-repeat fixed center;
+}
